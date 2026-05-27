@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authselete",
+        "uuid": 7495125,
+        "checksum": "qjjqad"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
